@@ -1,4 +1,7 @@
 #!/bin/sh
+#auther=wang
+#date=20200426
+#此脚本为快速卸载旧版本JDK并安装JDK1.8
 
 CHECK()
 {
